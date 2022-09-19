@@ -1,5 +1,5 @@
 
-new commit here in pipeline{
+pipeline{
     tools{
         jdk 'myjava'
         maven 'mymaven'
